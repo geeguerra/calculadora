@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import {ref} from 'vue';
 import Soma  from './components/soma.vue'
-import subtrair from './components/sub.vue'
+import subtrair from './components/subtrair.vue'
 import Multiplicar from './components/Mult.vue'
 import Dividir from './components/Divisao.vue'
 
